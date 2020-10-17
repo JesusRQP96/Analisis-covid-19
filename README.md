@@ -6,4 +6,4 @@ Empleando el paquete flexdashboard se implemento un dashboard sencillo con el fi
 
 Una Primera vista
 
-![alt text](https://github.com/JesusRQP96/Analisis-covid-19/dashboard_virus.png?raw=true)
+![alt text](https://github.com/JesusRQP96/Analisis-covid-19/blob/main/dashboard_virus.png?raw=true)
